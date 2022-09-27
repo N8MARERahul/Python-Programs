@@ -1,6 +1,6 @@
 row = int(input("Enter the Number of rows: "))
 
-for i in range(row + 1):
+for i in range(row):
     p = 1
     for j in range(row):
         print(end = " ")
