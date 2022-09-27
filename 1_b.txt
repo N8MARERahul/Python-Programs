@@ -1,0 +1,19 @@
+Microsoft Windows [Version 10.0.19044.1288]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\user>python
+Python 3.10.6 (tags/v3.10.6:9c7b4bd, Aug  1 2022, 21:53:49) [MSC v.1932 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import math
+>>> r=9
+>>> area=math.pi*r*r
+>>> area
+254.46900494077323
+>>> pre=2*math.pi*r
+>>> pre
+56.548667764616276
+>>> math.gcd(24,6)
+6
+>>> math.gcd(25,9)
+1
+>>>
