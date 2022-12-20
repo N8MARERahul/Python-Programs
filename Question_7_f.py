@@ -19,7 +19,7 @@ def fibo(n):
         return Dict[n]  
     return fibonacci(n)
 
-num = int(input("Enter the range : "))
+num = int(input("Enter the value of n : "))
 
 print("1. Using Naive Algorithm ...")
 print("2. Using Dynamic Programming...")
